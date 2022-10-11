@@ -1,0 +1,15 @@
+{
+    "name": "thiago/projetoexemplo",
+    "description": "dando new em uma classe em php",
+    "autoload": {
+        "psr-4": {
+            "App\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "Thiago"
+        }
+    ],
+    "require": {}
+}
